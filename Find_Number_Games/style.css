@@ -1,0 +1,51 @@
+
+
+body,
+html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: url(./image/guess.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    padding: 30px; 
+}
+
+h1{
+    /* font-size: 25px; */
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#outputtext{
+font-size: 24px;
+font-weight: 600;
+}
+
+#test{
+    font-size: 16px;
+}
+/* .result {
+    padding: 25px 0;
+}
+.result input{
+    width: 120px;
+    height: 10px;
+    font-size: 12px;
+} */
+#btn{
+
+    /* font-weight: 600; */
+    font-size: 11px;
+    cursor: auto;
+    line-height: 1;
+    
+}
